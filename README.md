@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey guys! I'm Cauê. :wink:
 
-<!--
-**cauezito/cauezito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauezitosp/)
+[![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981093305)
 
-Here are some ideas to get you started:
+```
+class aboutMe {
+  private String name = "Cauê Santos";
+  private String age = "23 years old";
+  private String location = "São Paulo, Brazil";
+  private String currentJob = "Junior mobile developer at Trigg ♥";
+  private String goal = "Become an excellent professional and help other people evolve :D";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  //hardskills
+  
+  private String[] java = {"javaFX", "swing", "jsp", "jsf", "jpa", "hibernate", "spring boot/mvc", "angular 8"};
+  private String[] others = {"css", "materialize", "bootstrap", "UIkit", "bulma", "semantic UI", "thymeleaf"};
+  private String[] databases = {"mysql", "postgresql", "firebase"}; 
+
+  //omitted getters and setters
+}
+
+```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauezito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
