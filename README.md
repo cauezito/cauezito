@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981093305)
 
 ```
-class **aboutMe** {
+class aboutMe {
   private String name = "Cauê Santos";
   private String age = "23 years old";
   private String location = "São Paulo, Brazil";
