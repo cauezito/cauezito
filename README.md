@@ -22,12 +22,12 @@ class AboutMe {
 
 ```
 
-<p align="right">
+<div style="text-align: left">
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauezito)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
-<p align="left">
+<div style="text-align: right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauezito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 
