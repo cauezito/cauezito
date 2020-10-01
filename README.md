@@ -22,10 +22,8 @@ class AboutMe {
 
 ```
 
-{: style="text-align: right" }
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauezito)](https://github.com/anuraghazra/github-readme-stats)
 
-{: style="text-align: left" }
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauezito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
