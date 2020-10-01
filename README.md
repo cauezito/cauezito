@@ -23,3 +23,6 @@ class AboutMe {
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauezito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauezito)](https://github.com/anuraghazra/github-readme-stats)
