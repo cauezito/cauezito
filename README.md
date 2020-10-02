@@ -1,4 +1,4 @@
-# Hey guys! I'm Cauê. :wink:
+## Hey guys! I'm Cauê. :wink:
 
 [![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauezitosp/)
 [![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981093305)
@@ -22,9 +22,17 @@ class AboutMe {
 
 ```
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauezito)](https://github.com/anuraghazra/github-readme-stats)
+<table align='left'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/wakatime?username=cauezito'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=cauezito&layout=compact'>
+    </td>
+  </row>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauezito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
