@@ -7,7 +7,7 @@
 ```
 class AboutMe {
   private String name = "Cauê Santos";
-  private String age = "23 years old";
+  private String age = "24 years old";
   private String location = "São Paulo, Brazil";
   private String currentJob = "Junior mobile developer at Trigg ♥";
   private String goal = "Become an excellent professional and help other people evolve :D";
