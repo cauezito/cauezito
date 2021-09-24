@@ -1,6 +1,5 @@
 ## Hey guys! I'm Cauê. =)
 
-[![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauezitosp/)
 [![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981093305)
 
 
@@ -35,7 +34,4 @@ class AboutMe {
     </td>
   </row>
 </table>
-
-
-
 
