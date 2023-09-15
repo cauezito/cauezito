@@ -5,19 +5,33 @@
 
 ```
 class AboutMe {
-  private String name = "Cauê Santos";
-  private String age = "24 years old";
-  private String location = "São Paulo, Brazil";
-  private String currentJob = "Junior mobile developer at Cielo ♥";
-  private String goal = "Become an excellent professional and help other people evolve :D";
+    val name: String = "Cauê Santos"
+    val age: String = "26 years old"
+    val location: String = "São Paulo, Brazil"
+    val currentJob: String = "Android developer at Cielo ♥"
+    val goal: String = "To become a technical reference, contribute to the evolution of mobile technology, and help others."
 
-  //hardskills
-  
-  private String[] java = {"javaFX", "swing", "jsp", "jsf", "jpa", "hibernate", "spring boot/mvc", "angular 8"};
-  private String[] others = {"css", "materialize", "bootstrap", "UIkit", "bulma", "semantic UI", "thymeleaf"};
-  private String[] databases = {"mysql", "postgresql", "firebase"}; 
+    val androidProficiencyStacks: Map<String, String> = mapOf(
+        "Java" to "4 years",
+        "Android Studio" to "4 years",
+        "Git" to "4 years",
+        "Koin" to "2 years",
+        "Kotlin" to "3 years"
+        "RxJava" to "2 years",
+        "Retrofit" to "3 years",
+        "Coroutines" to "1 year",
+        "MVP" to "3 years",
+        "MVVM" to "1 year",
+        "Firebase" to "3 years",
+   )
 
-  //omitted getters and setters
+  val otherKnowledges: Map<String, String> = mapOf(
+        "Springboot" to "1 year",
+        "PostgreSQL" to "2 years",
+        "JavaFX" to "2 years",
+        "MySQL" to "2 years",
+        "Javascript" to "1 year"
+   )
 }
 
 ```
