@@ -16,11 +16,11 @@ You can see more on https://wakatime.com/cauezito
 ## Tech stack
 
 - **Languages**: Kotlin, Swift, Java  
-- **UI Frameworks**: Jetpack Compose, SwiftUI, XML  
-- **Architecture Patterns**: Clean Architecture, MVVM, MVP  
-- **Core Tools**: Gradle, Ktor, SQLDelight, Koin, Detekt, Firebase  
+- **UI frameworks**: Jetpack Compose, SwiftUI, XML  
+- **Architecture patterns**: Clean architecture, MVVM, MVP  
+- **Core tools**: Gradle, Ktor, SQLDelight, Koin, Detekt, Firebase  
 - **Testing**: JUnit, MockK, Turbine, Paparazzi  
-- **Monitoring & Observability**: Crashlytics, Datadog (RUM, dashboards, logs), Analytics, Appsflyer  
+- **Monitoring & observability**: Crashlytics, Datadog (RUM, dashboards, logs), Analytics, Appsflyer  
 - **Automation & CI/CD**: GitHub Actions, Fastlane, Bitrise
 
 ## What I'm doing right now
