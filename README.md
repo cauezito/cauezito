@@ -8,6 +8,7 @@ With over 5 years of experience in Android development, I've worked across vario
 
 
 ## My real contribution
+[![wakatime](https://wakatime.com/badge/user/ee5436b1-0cc8-41ec-a19a-a81dbc0c347f.svg)](https://wakatime.com/@ee5436b1-0cc8-41ec-a19a-a81dbc0c347f)
 
 ![days](https://github.com/user-attachments/assets/c189bbe6-d1f1-470c-bc5f-47ab9b71de54)
 
